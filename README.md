@@ -6,19 +6,21 @@
 
 ## Folders
 
-#### Project Management
+###### The following folders can be found in the master folder called, "Instacart Basket Analysis (no Data)"
+
+#### 01 Project Management
 
 ###### Project Brief
 
-#### Scripts
+#### 03 Scripts
 
 ###### All executed codes divided by task objectives
 
-#### Analysis
+#### 04 Analysis
 
 ###### All visualizations created on Jupyter Notebooks
 
-#### Sent to Client
+#### 05 Sent to Client
 
 ###### Final Excel Report
 
