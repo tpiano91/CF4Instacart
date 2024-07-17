@@ -19,8 +19,20 @@
 ###### ○ What differences can you find in ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.
 
 ## Insights
+###### Saturdays and Sundays are the busiest days; Tuesdays and Wednesdays are the least busy
+###### Frequency of orders peaks between 9AM-4PM, with the highest peak at 10AM; the hours between 9PM-6AM are by far the least busy
+###### A vast majority of customers were flagged as "Middle-income"; there are a similar number of "High-income" and "Low-income" customers
+###### "High-range products" (products that cost over $15) sell far fewer products than "Low-range products" (Under $5) and "Mid-range products"
+###### Far more "High-income" customers, compared to "Low-income" customers bought "High-range products"
+###### More "High-income" customers than "Low-income" customers classified as "loyal" or "regular" customers; more "Low-income" customers classified as "new" customers
+###### "High-income" customers also account for a majority of customers who classify as "high-spenders", even more than "Middle-income" customers (despite there being twice as many "Middle-income" customers)
 
-
+## Recommendations
+###### Schedule advertisements during peak days/hours (weekends between 9AM-4PM) to maximize profit during these busy periods; further research needed to see how much traffic Instacart can handle during peak hours
+###### Further research needed to attract customers during less busy periods
+###### Only advertise "High-range" products to "high-income" customers
+###### Further research needed to determine why there are comparatively few "Low-income" customers who classify as "regular" or "loyal" customers
+###### Maximize potential profits off "high-income" customers/"high-spenders"; further research is needed to determine the preferred products of these groups and develop a marketing strategy to target these groups
 
 ## Folders
 
