@@ -40,7 +40,12 @@
 ![High-Range Products Sold by Income Level](Instacart%20Basket%20Analysis%20(no%20Data)/04%20Analysis/Visualizations/bar_highrange_income_410.png)
 
 ##### 6. More "High-income" customers than "Low-income" customers classified as "loyal" or "regular" customers; more "Low-income" customers classified as "new" customers
+
+![Customer Loyalty Income Level](Instacart%20Basket%20Analysis%20(no%20Data)/04%20Analysis/Visualizations/stackedbar_highlowincome_loyalty_410.png)
+
 ##### 7. "High-income" customers also account for a majority of customers who classify as "high-spenders", even more than "Middle-income" customers (despite there being twice as many "Middle-income" customers)
+
+![High Spenders Income Level](Instacart%20Basket%20Analysis%20(no%20Data)/04%20Analysis/Visualizations/bar_income_highspenders_410.png)
 
 ## Recommendations
 ##### 1. Schedule advertisements during peak days/hours (weekends between 9AM-4PM) to maximize profit during these busy periods; further research needed to see how much traffic Instacart can handle during peak hours
