@@ -33,7 +33,7 @@
 
 ##### 4. "High-range products" (products that cost over $15) sell far fewer products than "Low-range products" (Under $5) and "Mid-range products"
 
-![Products sold by price range](Instacart%20Basket%20Analysis%20(no%20Data)/04%20Analysis/Visualizations/bar_pricerange_income_410.png)
+![Products sold by price range](Instacart%20Basket%20Analysis%20(no%20Data)/04%20Analysis/Visualizations/bar_pricerange_410.png)
 
 ##### 5. Far more "High-income" customers, compared to "Low-income" customers bought "High-range products"
 
